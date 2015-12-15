@@ -1,0 +1,6 @@
+c:\users\emerald\documents\visual studio 2015\Projects\Game\Snake\bin\Debug\Snake.exe.config
+c:\users\emerald\documents\visual studio 2015\Projects\Game\Snake\bin\Debug\Snake.exe
+c:\users\emerald\documents\visual studio 2015\Projects\Game\Snake\bin\Debug\Snake.pdb
+c:\users\emerald\documents\visual studio 2015\Projects\Game\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+c:\users\emerald\documents\visual studio 2015\Projects\Game\Snake\obj\Debug\Snake.exe
+c:\users\emerald\documents\visual studio 2015\Projects\Game\Snake\obj\Debug\Snake.pdb
